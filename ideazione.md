@@ -32,9 +32,9 @@
    - Rilevanza: Alta
 - Fine-tuning e personalizzazione
    - Adattamento degli LLM a domini specifici
-- Rilevanza: Alta
+   - Rilevanza: Alta
 - LLM nella comunicazione aziendale
-- Email, report, marketing e customer care
+   - Email, report, marketing e customer care
 - Rilevanza: Alta
 - Generazione automatica di contenuti SEO
 - Blog, landing page e copywriting
