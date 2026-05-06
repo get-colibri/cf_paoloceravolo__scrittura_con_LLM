@@ -20,9 +20,9 @@
    - Rilevanza: Molto alta
 - Etica e plagio
    - Problemi di autenticità, copyright e originalità
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - AI e trasformazione del ruolo dell’autore
-- Evoluzione del concetto di autorialità
+   - Evoluzione del concetto di autorialità
 - Rilevanza: Alta
 - Metodologie iterative di revisione
 - Uso di prompt successivi per raffinare il testo
