@@ -58,11 +58,11 @@
    - Workflow automatizzati nella produzione di contenuti
    - Rilevanza: Media-Alta
 - Impatto sul lavoro editoriale
-- Effetti su giornalismo, editoria e traduzione
-- Rilevanza: Alta
+   - Effetti su giornalismo, editoria e traduzione
+   - Rilevanza: Alta
 - Aspetti cognitivi della scrittura con AI
-- Come cambia il processo mentale di scrittura
-- Rilevanza: Alta
+   - Come cambia il processo mentale di scrittura
+   - Rilevanza: Alta
 - Trasparenza e AI disclosure
 - Dichiarare l’uso dell’AI nei contenuti
 - Rilevanza: Alta
