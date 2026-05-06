@@ -1,5 +1,7 @@
 # ideazione
 
+&#8203;
+
 **possibi temi**
 
 - Diffusione della IA generativa 
