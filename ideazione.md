@@ -11,9 +11,9 @@
    - Rilevanza: Molto alta
 - Scrittura creativa assistita
    - Uso degli LLM per narrativa, storytelling e sceneggiature
-- Rilevanza: Alta
+   - Rilevanza: Alta
 - Scrittura accademica con AI
-- Supporto nella redazione di saggi, tesi e abstract
+   - Supporto nella redazione di saggi, tesi e abstract
 - Rilevanza: Molto alta
 - Bias linguistici e culturali
 - Pregiudizi presenti nei testi generati
