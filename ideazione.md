@@ -17,9 +17,9 @@
    - Rilevanza: Molto alta
 - Bias linguistici e culturali
    - Pregiudizi presenti nei testi generati
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Etica e plagio
-- Problemi di autenticità, copyright e originalità
+   - Problemi di autenticità, copyright e originalità
 - Rilevanza: Molto alta
 - AI e trasformazione del ruolo dell’autore
 - Evoluzione del concetto di autorialità
