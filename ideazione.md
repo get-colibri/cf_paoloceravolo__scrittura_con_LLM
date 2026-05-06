@@ -49,8 +49,8 @@
    - Errori fattuali nei testi generati
    - Rilevanza: Molto alta
 - Multimodalità nella scrittura
-- Integrazione tra testo, immagini e audio
-- Rilevanza: Alta
+   - Integrazione tra testo, immagini e audio
+   - Rilevanza: Alta
 - Scrittura specialistica
 - Ambiti legale, medico e tecnico-scientifico
 - Rilevanza: Alta
