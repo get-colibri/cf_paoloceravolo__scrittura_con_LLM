@@ -23,9 +23,9 @@
    - Rilevanza: Molto alta
 - AI e trasformazione del ruolo dell’autore
    - Evoluzione del concetto di autorialità
-- Rilevanza: Alta
+   - Rilevanza: Alta
 - Metodologie iterative di revisione
-- Uso di prompt successivi per raffinare il testo
+   - Uso di prompt successivi per raffinare il testo
 - Rilevanza: Molto alta
 - Chain-of-Thought e reasoning
 - Tecniche che guidano il ragionamento del modello
