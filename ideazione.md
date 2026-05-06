@@ -35,9 +35,9 @@
    - Rilevanza: Alta
 - LLM nella comunicazione aziendale
    - Email, report, marketing e customer care
-- Rilevanza: Alta
+   - Rilevanza: Alta
 - Generazione automatica di contenuti SEO
-- Blog, landing page e copywriting
+   - Blog, landing page e copywriting
 - Rilevanza: Media-Alta
 - Didattica e apprendimento assistito
 - Uso degli LLM nella scuola e università
