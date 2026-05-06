@@ -8,9 +8,9 @@
    - Rilevanza: Molto alta
 - Co-scrittura uomo–AI
    - Collaborazione tra autore umano e modello linguistico
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Scrittura creativa assistita
-- Uso degli LLM per narrativa, storytelling e sceneggiature
+   - Uso degli LLM per narrativa, storytelling e sceneggiature
 - Rilevanza: Alta
 - Scrittura accademica con AI
 - Supporto nella redazione di saggi, tesi e abstract
