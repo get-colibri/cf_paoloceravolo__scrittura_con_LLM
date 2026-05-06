@@ -52,11 +52,11 @@
    - Integrazione tra testo, immagini e audio
    - Rilevanza: Alta
 - Scrittura specialistica
-- Ambiti legale, medico e tecnico-scientifico
-- Rilevanza: Alta
+   - Ambiti legale, medico e tecnico-scientifico
+   - Rilevanza: Alta
 - Automazione editoriale
-- Workflow automatizzati nella produzione di contenuti
-- Rilevanza: Media-Alta
+   - Workflow automatizzati nella produzione di contenuti
+   - Rilevanza: Media-Alta
 - Impatto sul lavoro editoriale
 - Effetti su giornalismo, editoria e traduzione
 - Rilevanza: Alta
