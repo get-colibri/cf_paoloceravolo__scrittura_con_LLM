@@ -64,7 +64,7 @@
    - Come cambia il processo mentale di scrittura
    - Rilevanza: Alta
 - Trasparenza e AI disclosure
-- Dichiarare l’uso dell’AI nei contenuti
+   - Dichiarare l’uso dell’AI nei contenuti
 - Rilevanza: Alta
 - Confronto tra modelli linguistici
 - GPT, Claude, Gemini, Llama ecc.
