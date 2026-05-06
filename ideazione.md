@@ -1,3 +1,4 @@
 # ideazione
 
-- Diffusione della IA generativa
+- Diffusione della IA generativa 
+   - caratteri
