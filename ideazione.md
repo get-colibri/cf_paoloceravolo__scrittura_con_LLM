@@ -41,13 +41,13 @@
    - Rilevanza: Media-Alta
 - Didattica e apprendimento assistito
    - Uso degli LLM nella scuola e università
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Valutazione della qualità del testo generato
-- Metriche qualitative e quantitative
-- Rilevanza: Alta
+   - Metriche qualitative e quantitative
+   - Rilevanza: Alta
 - Allucinazioni e affidabilità
-- Errori fattuali nei testi generati
-- Rilevanza: Molto alta
+   - Errori fattuali nei testi generati
+   - Rilevanza: Molto alta
 - Multimodalità nella scrittura
 - Integrazione tra testo, immagini e audio
 - Rilevanza: Alta
