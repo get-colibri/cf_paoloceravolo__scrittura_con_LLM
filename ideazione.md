@@ -1,3 +1,3 @@
 # ideazione
 
-- Diffusione 
+- Diffusione della IA generativa
