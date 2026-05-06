@@ -5,9 +5,9 @@
    - limiti<br>&#8203;
 - Prompt Engineering
    - Tecniche per formulare richieste efficaci agli LLM
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Co-scrittura uomo–AI
-- Collaborazione tra autore umano e modello linguistico
+   - Collaborazione tra autore umano e modello linguistico
 - Rilevanza: Molto alta
 - Scrittura creativa assistita
 - Uso degli LLM per narrativa, storytelling e sceneggiature
