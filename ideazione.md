@@ -14,9 +14,9 @@
    - Rilevanza: Alta
 - Scrittura accademica con AI
    - Supporto nella redazione di saggi, tesi e abstract
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Bias linguistici e culturali
-- Pregiudizi presenti nei testi generati
+   - Pregiudizi presenti nei testi generati
 - Rilevanza: Molto alta
 - Etica e plagio
 - Problemi di autenticità, copyright e originalità
