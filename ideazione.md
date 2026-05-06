@@ -1,4 +1,5 @@
 # ideazione
 
 - Diffusione della IA generativa 
-   - caratteri
+   - caratteristiche 
+   - limiti
