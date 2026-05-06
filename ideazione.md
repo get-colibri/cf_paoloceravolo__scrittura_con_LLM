@@ -1,6 +1,6 @@
 # ideazione
 
-possibi
+**possibi**
 
 - Diffusione della IA generativa 
    - caratteristiche 
