@@ -1,6 +1,6 @@
 # ideazione
 
-&#8203;
+G
 
 - Diffusione della IA generativa 
    - caratteristiche 
