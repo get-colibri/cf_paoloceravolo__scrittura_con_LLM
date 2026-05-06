@@ -4,7 +4,8 @@
 
 - Diffusione della IA generativa 
    - caratteristiche 
-   - limiti<br>&#8203;
+   - limiti
+   - <br>&#8203;
 - Prompt Engineering
    - Tecniche per formulare richieste efficaci agli LLM
    - Rilevanza: Molto alta
