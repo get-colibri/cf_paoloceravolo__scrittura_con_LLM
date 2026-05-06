@@ -26,9 +26,9 @@
    - Rilevanza: Alta
 - Metodologie iterative di revisione
    - Uso di prompt successivi per raffinare il testo
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Chain-of-Thought e reasoning
-- Tecniche che guidano il ragionamento del modello
+   - Tecniche che guidano il ragionamento del modello
 - Rilevanza: Alta
 - Fine-tuning e personalizzazione
 - Adattamento degli LLM a domini specifici
