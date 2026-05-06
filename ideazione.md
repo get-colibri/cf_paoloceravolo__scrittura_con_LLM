@@ -1,6 +1,6 @@
 # ideazione
 
-**possibli temi**
+**possibili temi**
 
 - Diffusione della IA generativa 
    - caratteristiche 
