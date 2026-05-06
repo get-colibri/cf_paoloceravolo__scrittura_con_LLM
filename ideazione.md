@@ -71,11 +71,11 @@
    - Rilevanza: Media-Alta
 - Metodi di verifica delle fonti
    - Fact-checking nei contenuti generati dagli LLM
-- Rilevanza: Molto alta
+   - Rilevanza: Molto alta
 - Human-in-the-loop
-- Supervisione umana nella produzione testuale
-- Rilevanza: Molto alta
+   - Supervisione umana nella produzione testuale
+   - Rilevanza: Molto alta
 - Evoluzione storica della scrittura automatica
-- Dai chatbot classici agli LLM moderni
-- Rilevanza: Media
+   - Dai chatbot classici agli LLM moderni
+   - Rilevanza: Media
 
