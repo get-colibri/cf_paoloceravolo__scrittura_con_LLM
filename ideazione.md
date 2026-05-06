@@ -4,7 +4,7 @@
    - caratteristiche 
    - limiti<br>&#8203;
 - Prompt Engineering
-- Tecniche per formulare richieste efficaci agli LLM
+   - Tecniche per formulare richieste efficaci agli LLM
 - Rilevanza: Molto alta
 - Co-scrittura uomo–AI
 - Collaborazione tra autore umano e modello linguistico
