@@ -40,7 +40,7 @@
    - Blog, landing page e copywriting
    - Rilevanza: Media-Alta
 - Didattica e apprendimento assistito
-- Uso degli LLM nella scuola e università
+   - Uso degli LLM nella scuola e università
 - Rilevanza: Molto alta
 - Valutazione della qualità del testo generato
 - Metriche qualitative e quantitative
