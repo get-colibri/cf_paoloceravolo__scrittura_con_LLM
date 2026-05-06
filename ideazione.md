@@ -65,12 +65,12 @@
    - Rilevanza: Alta
 - Trasparenza e AI disclosure
    - Dichiarare l’uso dell’AI nei contenuti
-- Rilevanza: Alta
+   - Rilevanza: Alta
 - Confronto tra modelli linguistici
-- GPT, Claude, Gemini, Llama ecc.
-- Rilevanza: Media-Alta
+   - GPT, Claude, Gemini, Llama ecc.
+   - Rilevanza: Media-Alta
 - Metodi di verifica delle fonti
-- Fact-checking nei contenuti generati dagli LLM
+   - Fact-checking nei contenuti generati dagli LLM
 - Rilevanza: Molto alta
 - Human-in-the-loop
 - Supervisione umana nella produzione testuale
