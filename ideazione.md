@@ -68,7 +68,7 @@
    - Rilevanza: *
 - Trasparenza e AI disclosure
    - Dichiarare l’uso dell’AI nei contenuti
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Confronto tra modelli linguistici
    - GPT, Claude, Gemini, Llama ecc.
    - Rilevanza: Media-Alta
