@@ -29,7 +29,7 @@
    - Rilevanza: *
 - Metodologie iterative di revisione
    - Uso di prompt successivi per raffinare il testo
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Chain-of-Thought e reasoning
    - Tecniche che guidano il ragionamento del modello
    - Rilevanza: Alta
