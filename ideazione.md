@@ -26,7 +26,7 @@
    - Rilevanza: *
 - AI e trasformazione del ruolo dell’autore
    - Evoluzione del concetto di autorialità
-   - Rilevanza: *
+   - Rilevanza: **
 - Metodologie iterative di revisione
    - Uso di prompt successivi per raffinare il testo
    - Rilevanza: 
