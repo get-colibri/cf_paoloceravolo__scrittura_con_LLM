@@ -50,7 +50,7 @@
    - Rilevanza: *
 - Allucinazioni e affidabilità
    - Errori fattuali nei testi generati
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Multimodalità nella scrittura
    - Integrazione tra testo, immagini e audio
    - Rilevanza: Alta
