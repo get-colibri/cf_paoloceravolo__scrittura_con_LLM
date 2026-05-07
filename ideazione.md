@@ -38,7 +38,7 @@
    - Rilevanza: 
 - LLM nella comunicazione aziendale
    - Email, report, marketing e customer care
-   - Rilevanza: Alta
+   - Rilevanza: 
 - Generazione automatica di contenuti SEO
    - Blog, landing page e copywriting
    - Rilevanza: Media-Alta
