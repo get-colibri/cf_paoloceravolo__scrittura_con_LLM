@@ -23,7 +23,7 @@
    - Rilevanza: 
 - Etica e plagio
    - Problemi di autenticità, copyright e originalità
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - AI e trasformazione del ruolo dell’autore
    - Evoluzione del concetto di autorialità
    - Rilevanza: Alta
