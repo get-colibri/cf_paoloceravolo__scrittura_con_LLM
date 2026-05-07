@@ -62,7 +62,7 @@
    - Rilevanza: 
 - Impatto sul lavoro editoriale
    - Effetti su giornalismo, editoria e traduzione
-   - Rilevanza: *
+   - Rilevanza: ^*
 - Aspetti cognitivi della scrittura con AI
    - Come cambia il processo mentale di scrittura
    - Rilevanza: *
