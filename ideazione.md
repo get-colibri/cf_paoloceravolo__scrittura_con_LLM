@@ -74,7 +74,7 @@
    - Rilevanza: *
 - Metodi di verifica delle fonti
    - Fact-checking nei contenuti generati dagli LLM
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Human-in-the-loop
    - Supervisione umana nella produzione testuale
    - Rilevanza: Molto alta
