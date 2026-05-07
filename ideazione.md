@@ -8,7 +8,7 @@
    - Rilevanza: **<br>&#8203;
 - Prompt Engineering
    - Tecniche per formulare richieste efficaci agli LLM
-   - Rilevanza: *
+   - Rilevanza: **
 - Co-scrittura uomo–AI
    - Collaborazione tra autore umano e modello linguistico
    - Rilevanza: 
