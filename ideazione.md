@@ -77,7 +77,7 @@
    - Rilevanza: *
 - Human-in-the-loop
    - Supervisione umana nella produzione testuale
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Evoluzione storica della scrittura automatica
    - Dai chatbot classici agli LLM moderni
    - Rilevanza: Media
