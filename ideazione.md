@@ -41,7 +41,7 @@
    - Rilevanza: 
 - Generazione automatica di contenuti SEO
    - Blog, landing page e copywriting
-   - Rilevanza: Media-Alta
+   - Rilevanza: 
 - Didattica e apprendimento assistito
    - Uso degli LLM nella scuola e università
    - Rilevanza: Molto alta
