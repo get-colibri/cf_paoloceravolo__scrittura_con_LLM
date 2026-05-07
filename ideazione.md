@@ -32,10 +32,10 @@
    - Rilevanza: 
 - Chain-of-Thought e reasoning
    - Tecniche che guidano il ragionamento del modello
-   - Rilevanza: Alta
+   - Rilevanza: 
 - Fine-tuning e personalizzazione
    - Adattamento degli LLM a domini specifici
-   - Rilevanza: Alta
+   - Rilevanza: 
 - LLM nella comunicazione aziendale
    - Email, report, marketing e customer care
    - Rilevanza: Alta
