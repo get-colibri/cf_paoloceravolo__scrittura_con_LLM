@@ -44,7 +44,7 @@
    - Rilevanza: 
 - Didattica e apprendimento assistito
    - Uso degli LLM nella scuola e università
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Valutazione della qualità del testo generato
    - Metriche qualitative e quantitative
    - Rilevanza: Alta
