@@ -71,7 +71,7 @@
    - Rilevanza: *
 - Confronto tra modelli linguistici
    - GPT, Claude, Gemini, Llama ecc.
-   - Rilevanza: Media-Alta
+   - Rilevanza: *
 - Metodi di verifica delle fonti
    - Fact-checking nei contenuti generati dagli LLM
    - Rilevanza: Molto alta
