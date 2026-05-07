@@ -53,7 +53,7 @@
    - Rilevanza: *
 - Multimodalità nella scrittura
    - Integrazione tra testo, immagini e audio
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Scrittura specialistica
    - Ambiti legale, medico e tecnico-scientifico
    - Rilevanza: Alta
