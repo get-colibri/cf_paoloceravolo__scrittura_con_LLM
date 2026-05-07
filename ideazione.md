@@ -17,7 +17,7 @@
    - Rilevanza: 
 - Scrittura accademica con AI
    - Supporto nella redazione di saggi, tesi e abstract
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Bias linguistici e culturali
    - Pregiudizi presenti nei testi generati
    - Rilevanza: Molto alta
