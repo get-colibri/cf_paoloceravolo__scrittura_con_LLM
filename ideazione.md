@@ -65,7 +65,7 @@
    - Rilevanza: *
 - Aspetti cognitivi della scrittura con AI
    - Come cambia il processo mentale di scrittura
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Trasparenza e AI disclosure
    - Dichiarare l’uso dell’AI nei contenuti
    - Rilevanza: Alta
