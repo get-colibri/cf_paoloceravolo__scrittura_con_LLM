@@ -47,7 +47,7 @@
    - Rilevanza: 
 - Valutazione della qualità del testo generato
    - Metriche qualitative e quantitative
-   - Rilevanza: *
+   - Rilevanza: **
 - Allucinazioni e affidabilità
    - Errori fattuali nei testi generati
    - Rilevanza: *
