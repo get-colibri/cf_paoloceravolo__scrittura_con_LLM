@@ -56,10 +56,10 @@
    - Rilevanza: *
 - Scrittura specialistica
    - Ambiti legale, medico e tecnico-scientifico
-   - Rilevanza: 
+   - Rilevanza: *
 - Automazione editoriale
    - Workflow automatizzati nella produzione di contenuti
-   - Rilevanza: Media-Alta
+   - Rilevanza: 
 - Impatto sul lavoro editoriale
    - Effetti su giornalismo, editoria e traduzione
    - Rilevanza: Alta
