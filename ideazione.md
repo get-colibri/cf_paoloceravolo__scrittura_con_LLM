@@ -20,7 +20,7 @@
    - Rilevanza: 
 - Bias linguistici e culturali
    - Pregiudizi presenti nei testi generati
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Etica e plagio
    - Problemi di autenticità, copyright e originalità
    - Rilevanza: Molto alta
