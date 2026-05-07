@@ -14,7 +14,7 @@
    - Rilevanza: 
 - Scrittura creativa assistita
    - Uso degli LLM per narrativa, storytelling e sceneggiature
-   - Rilevanza: Alta
+   - Rilevanza: 
 - Scrittura accademica con AI
    - Supporto nella redazione di saggi, tesi e abstract
    - Rilevanza: Molto alta
